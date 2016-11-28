@@ -24,6 +24,10 @@ module Addressable
       end
     end
 
+    def fixup!
+      normalize!
+    end
+
     private
 
     def text?(type)

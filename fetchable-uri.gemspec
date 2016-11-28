@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 Gem::Specification.new do |s|
   s.name      = 'fetchable-uri'
-  s.version   = '0.0.1'
+  s.version   = '0.0.2'
   s.license   = 'MIT'
   s.summary   = 'URI fetching extension for Addressable::URI'
   s.author    = 'DragonMaus'
